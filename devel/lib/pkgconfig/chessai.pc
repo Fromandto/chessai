@@ -1,0 +1,8 @@
+prefix=/root/chessai_ws/devel
+
+Name: chessai
+Description: Description of chessai
+Version: 0.0.0
+Cflags: 
+Libs: -L/root/chessai_ws/devel/lib 
+Requires: 
